@@ -7,4 +7,4 @@ Groupe : Mohamed Dhia Jebali - Mariem Benjaballah - Aymen Tayari
 
 Sujet : Gestion d'entreprise
 
-Description : Faire l'ajout, modification, suppresion et recherche des employés d'une entreprise.
+Description : Faire l'ajout, modification, suppresion, recherche et consultation des employés d'une entreprise.
