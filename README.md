@@ -5,6 +5,8 @@ Class : LGLSI-2B
 
 Groupe : Mohamed Dhia Jebali - Mariem Benjaballah - Aymen Tayari
 
-Sujet : Gestion d'entreprise
+Sujet : Gestion des Employés dans une Entreprise.
+
+Titre : Gestion des Employés
 
 Description : Faire l'ajout, modification, suppresion, recherche et consultation des employés d'une entreprise.
