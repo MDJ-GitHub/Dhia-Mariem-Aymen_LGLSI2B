@@ -1,5 +1,5 @@
 # Mini-Projet_Web_ISTIC_2021
-Le mini-projet web d'ISTIC pour l'année 2021 LGLSI-2
+Le Mini-Projet Web d'ISTIC pour l'année 2021 LGLSI-2
 
 Class : LGLSI-2B
 
