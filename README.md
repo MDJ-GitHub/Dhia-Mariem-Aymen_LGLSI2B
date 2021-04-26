@@ -34,7 +34,7 @@ BackEnd  : le projet avec système backend et localstorage (le backend de projet
 
 --------------------------------------------------
 
-Introduction //
+À propos de ça //
 
 Class : LGLSI-2B
 
