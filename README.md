@@ -3,6 +3,8 @@ Le Mini-Projet Web d'ISTIC pour l'année 2021 LGLSI-2
 
 --------------------------------------------------
 
+Firebase //
+
 Firebase Lien : https://gestion-des-employes-4be29.web.app/
 
 IMPORTANT : Notre projet utilise les fonctionnalités de stockage local
@@ -31,6 +33,8 @@ BackEnd  : le projet avec système backend et localstorage (le backend de projet
 
 
 --------------------------------------------------
+
+Introduction //
 
 Class : LGLSI-2B
 
