@@ -15,7 +15,7 @@ du fichier main.py (uvicorn / fastapi / backend).
 
 --------------------------------------------------
 
-Elements //
+Éléments //
 
 readme   : le fichier README.md contenir l'explication de notre projet
 
