@@ -14,13 +14,21 @@ du fichier main.py (uvicorn / fastapi / backend).
 --------------------------------------------------
 
 Elements //
+
 readme   : le fichier README.md contenir l'explication de notre projet
+
 spec     : les diagrammes représentant notre projet
+
 UI       : les blueprints squelette des interfaces graphiques de notre projet 
+
 UX       : les interfaces graphiques prototypes de notre projet 
+
 DataBase : les informations de la base de données 
+
 FrontEnd : le projet sans système backend et localstorage (le frontend de projet)
+
 BackEnd  : le projet avec système backend et localstorage (le backend de projet)
+
 
 --------------------------------------------------
 
