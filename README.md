@@ -9,9 +9,11 @@ Firebase Lien : https://gestion-des-employes-4be29.web.app/
 
 IMPORTANT : Notre projet utilise les fonctionnalités de stockage local
 vous ne pourrez pas dépasser la page de connexion sans la base de données 
-fonctionnant avec une ligne insérée (utilisez le fichier sql 
+fonctionnant avec une ligne insérée (dans personne et compte) (utilisez le fichier sql 
 gestionemployes.sql pour la créer) et le fonctionnement 
-du fichier main.py (uvicorn / fastapi / backend). 
+du fichier main.py (uvicorn / fastapi / backend).
+
+L'émploye administrateur par défaut : (Enterprise ID) EID = "0" / Mot de Passe = "admin"
 
 --------------------------------------------------
 
